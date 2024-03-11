@@ -1,0 +1,2 @@
+# misie
+Stronka na informatykę
