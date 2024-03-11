@@ -77,7 +77,14 @@ a {
     border-radius: 5px;
     padding: 2.5px;
     width: 12.5%;
+}
 
+.navlink {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navlink:hover {
+    font-weight: 600;
 }
 
 .banner {
