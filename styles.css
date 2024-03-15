@@ -59,7 +59,7 @@ a {
     font-size: 1.5em;
     font-weight: 400;
     font-family: Arial Arial, Helvetica, sans-serif;
-    padding: 7.5px;
+    padding: 2.5px;
     border: 2px solid black;
     border-radius: 5px;
 }
@@ -72,11 +72,10 @@ a {
 .nav {
     font-family: Arial Arial, Helvetica, sans-serif;
     font-size: 1.25em;
-    margin-right: 15%;
+    margin-right: 12.5%;
     border: 2px solid black;
     border-radius: 5px;
-    padding: 2.5px;
-    width: 12.5%;
+    padding: 7.5px;
 }
 
 .navlink {
@@ -84,11 +83,11 @@ a {
 }
 
 .navlink:hover {
-    font-weight: 600;
+    text-shadow: 1px 0;
 }
 
 .banner {
-    width: 90%;
+    width: 80%;
     height: auto;
 }
 
@@ -173,8 +172,7 @@ td {
 }
 
 .factbtn:hover {
-    font-weight: 600;
-    transition-duration: 50ms;
+    text-shadow: 1px 0;
 }
 
 #display {
@@ -182,6 +180,7 @@ td {
     text-align: center;
     font-size: 22px;
     width: 50%;
+    margin-left: 2.5%;
 }
 
 .source {
@@ -200,5 +199,6 @@ td {
 
 .gif {
     width: 20%;
+    height: 20%;
     margin-left: 50px;
 }
